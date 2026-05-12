@@ -1,5 +1,16 @@
-# js_css_html
-This repo is having some funny basic to intermediate Programs written using HTML, CSS, JS. 
-Any changes or feedback are always welcome. 
+# Frontend Mini Projects
 
-Thanks !!!
+## Overview
+Collection of mini frontend projects built using HTML, CSS, and JavaScript to practice UI development and DOM manipulation.
+
+## Projects Included
+- Calculator
+- To-do App
+- Weather App
+- Form Validation
+
+## Skills Demonstrated
+- Responsive design
+- JavaScript DOM manipulation
+- Event handling
+- API integration
